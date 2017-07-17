@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My OXXO Request App</string>
+    <string name="sign_in_cancelled">Se canceló el inicio de sesión</string>
+    <string name="no_internet_connection">No hay conexión a internet</string>
+    <string name="unknown_error">Se produjo un error desconocido</string>
+    <string name="unknown_sign_in_response">Se desconoce la respuesta recibida</string>
 </resources>
